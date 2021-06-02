@@ -14,30 +14,31 @@ Technologies:
 The branch has 3 folders:
 
 # CSS:
-# Global.css  written styles globally and i have written predefined classes those classes can be used throught the project
+  Global.css  written styles globally and i have written predefined classes those classes can be used throught the project
 
-# I have followed Bem structure for classes Name 
+  I have followed Bem structure for classes Name 
 
-# written dimension sizes in rem formate
+  written dimension sizes in rem formate
 
-# i have used media query to support responsive design
+  Used media query to support responsive design
 
 # Js
 
-# Global.Js: i have wrriten functiona js programming
+  Global.Js: i have wrriten functiona js programming
 
-# initializeCache() function initilise to get the all elements of dom. this helps us improve the performence rathere than traversing everytime
+  initializeCache() function initilise to get the all elements of dom. this helps us improve the performence rathere than traversing everytime
 
-# initializeEvents : initilise is the event for swatches get the selected swatch information 
+  initializeEvents : initilise is the event for swatches get the selected swatch information 
 
-# var product : initilize jSON OBJECT different product's information
+  var product : initilize jSON OBJECT different product's information
 
-#  appendDataToDom() method helps to update the dom elements like product image , product title, Product price, Product availability sizes, Product description
+   appendDataToDom() method helps to update the dom elements like product image , product title, Product price, Product availability sizes, Product description
 
 
 # images:
 
-# images folder contans the all project images like swatches colors, product image, see more images
+  images folder contans the all project images like swatches colors, product image, see more images
 
 # index.html
-# index.html: loadded css, js files and font awesome links
+  
+  index.html: loadded css, js files and font awesome links
