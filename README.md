@@ -1,4 +1,4 @@
-#Feature/PDP-TEST2
+#Feature/PDP-STEP2
 
 # Title
   Product detail page design
