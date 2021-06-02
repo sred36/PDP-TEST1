@@ -96,5 +96,6 @@ The branch has 3 folders:
     
     2) extarct the zip folder
     3) npm install
-    4) npm run 
+    4) npm install --save react-router-dom
+    5) npm run 
     
