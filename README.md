@@ -6,10 +6,10 @@
 
 # Demo:
   https://rawcdn.githack.com/sred36/PDP-TEST1/9ce97de52b62dac78061da7305472ccdf7b41075/index.html
+  
+# Technologies: 
 
-Technologies: 
-
-# HTML5, CSS3 ,JAVASCRIPT, JQUERY,FONT AWESOME.MEDIA QUERYS.
+  HTML5, CSS3 ,JAVASCRIPT, JQUERY,FONT AWESOME.MEDIA QUERYS.
 
 The branch has 3 folders:
 
@@ -42,3 +42,9 @@ The branch has 3 folders:
 # index.html
   
   index.html: loadded css, js files and font awesome links
+
+#Local Demo: 
+    
+    1) download Master branch
+    
+    2) extarct the zip folder and double click on index.html
