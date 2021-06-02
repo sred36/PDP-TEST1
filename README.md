@@ -1,8 +1,4 @@
-# PDP-TEST1
-
-#USED SKILLS
-#HTML,CSS,JQUERY,FONT AWESOME,
-#implemented PDP step1.
-
-#demo
-#double click on the index.html
+# PDP-TEST2
+# SKILLS : html5, css, jquery, font-awesome, ajax
+# DEMO: Download code and double click index.html
+# Pdp data is loaded from ajax call
