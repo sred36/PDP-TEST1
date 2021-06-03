@@ -21,16 +21,16 @@
     
     }
     function initializeEvents() {
-        $(document).on('click',  $cache.swatchImage, function(e) {
+        $(document).on('click',  $cache.swatchImage, function(e) { 
             e.preventDefault();
             var source = $(e.target).attr('data-source');
-            $cache.swatchImage.removeClass('selected');
+            $cache.swatchImage.removeClass('selected'); 
             $(e.target).addClass('selected');
             if(source) {
                 AppendProductDetails(source);
             }
             
-        });
+        }); 
 
     }
     
