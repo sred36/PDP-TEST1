@@ -46,5 +46,7 @@ The branch has 3 folders:
 #Local Demo: 
     
     1) download Master branch
-    
-    2) extarct the zip folder and double click on index.html
+    2) npm install
+    3) grunt sass
+    4) grunt js
+    5) extarct the zip folder and double click on index.html
