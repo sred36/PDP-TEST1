@@ -1,0 +1,29 @@
+{
+  "name": "PDP-TEST1",
+  "version": "1.0.0",
+  "description": "Product detail page design\r # Description\r  Simple product details page which contains product main image and product titile, product price,Availability of sizes and see more section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sred36/PDP-TEST1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sred36/PDP-TEST1/issues"
+  },
+  "homepage": "https://github.com/sred36/PDP-TEST1#readme",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
